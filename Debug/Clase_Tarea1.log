@@ -1,0 +1,7 @@
+﻿  Clase_Tarea1.cpp
+  ListaEnlazada.cpp
+c:\users\julissa garcia\desktop\[edd]tarea1_201602805\clase_tarea1\clase_tarea1\listaenlazada.cpp(95): warning C4101: 'carnet': unreferenced local variable
+c:\users\julissa garcia\desktop\[edd]tarea1_201602805\clase_tarea1\clase_tarea1\listaenlazada.cpp(175): warning C4129: ' ': unrecognized character escape sequence
+c:\users\julissa garcia\desktop\[edd]tarea1_201602805\clase_tarea1\clase_tarea1\listaenlazada.cpp(184): warning C4101: 'carnet': unreferenced local variable
+  Generating Code...
+  Clase_Tarea1.vcxproj -> C:\Users\Julissa Garcia\Desktop\[EDD]Tarea1_201602805\Clase_Tarea1\Debug\Clase_Tarea1.exe
